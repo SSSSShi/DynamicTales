@@ -1,5 +1,11 @@
 # DynamicTales: Interactive Storytelling
 
+Github Repo: https://github.com/SSSSShi/DynamicTales
+
+Web Demo: https://huggingface.co/spaces/reinashi/DynamicTales 
+
+Presentation Video: https://youtu.be/aDfwh9YsBgA 
+
 An interactive text adventure application that demonstrates and compares three different approaches to story generation:
 
 1. **Naive Model** (baseline): A simple template-based text generator
