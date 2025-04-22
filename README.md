@@ -36,6 +36,14 @@ These texts are processed into training segments of 100-1000 characters to creat
 
 *↓ lower is better, ↑ higher is better*
 
+### Evaluation Process
+- **Perplexity**: Measures how well a model predicts text (lower values indicate better prediction)
+- **BLEU Score**: Measures similarity between generated text and reference text
+- **Vocabulary Diversity**: Ratio of unique words to total words (higher values indicate more diverse vocabulary)
+- **Response Time**: Time taken to generate a response (in seconds)
+
+These metrics provide a balanced assessment of both computational performance and creative quality.
+
 ## Demo
 
 Try the live demo on [Hugging Face Spaces](https://huggingface.co/spaces/reinashi/DynamicTales).
