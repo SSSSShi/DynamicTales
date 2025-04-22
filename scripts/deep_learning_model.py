@@ -236,7 +236,7 @@ if __name__ == "__main__":
             transformer_model.fine_tune(
                 texts=training_texts,
                 epochs=100,  
-                batch_size=1, 
+                batch_size=3, 
                 learning_rate=5e-5,
                 output_dir="models/transformer"
             )
